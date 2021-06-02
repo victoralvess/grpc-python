@@ -1,6 +1,6 @@
 # gRPC with Python
 
-This project was create for learning purposes. Feel free do do whatever you want with it ;-).
+This project was created for learning purposes. Feel free do do whatever you want with it ;-).
 
 # What is RPC?
 
